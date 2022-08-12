@@ -34,7 +34,7 @@ namespace Assignment4_InventoryProject
                 }
                 else
                 {
-                    var item = InventoryModel.findOne(textBox_search.Text);
+                    var item = InventoryModel.findAll(textBox_search.Text);
                     if (item.Count==0)
                     {
                         dataGridView1.DataSource = null;
@@ -43,7 +43,7 @@ namespace Assignment4_InventoryProject
                     else
                     {
                         dataGridView1.DataSource = null;
-                        dataGridView1.DataSource = InventoryModel.findOne(textBox_search.Text);
+                        dataGridView1.DataSource = InventoryModel.findAll(textBox_search.Text);
                         //dataGridView1.DataSource=item;
                     }
                 }

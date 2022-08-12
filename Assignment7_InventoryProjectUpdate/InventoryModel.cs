@@ -29,7 +29,7 @@ namespace Assignment4_InventoryProject
         {
             return inv;
         }
-        public static List<InventoryModel> findOne(string name)
+        public static List<InventoryModel> findAll(string name)
         {
             return inv.FindAll(p=>p.objectName==name);//returns a list
             //Find(p=>p.objectNAme==name); returns a single value
