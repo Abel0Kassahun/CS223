@@ -61,22 +61,22 @@ namespace Assignment4_InventoryProject
             // addNewProductToolStripMenuItem
             // 
             this.addNewProductToolStripMenuItem.Name = "addNewProductToolStripMenuItem";
-            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
+            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.addNewProductToolStripMenuItem.Text = "Add new product";
             this.addNewProductToolStripMenuItem.Click += new System.EventHandler(this.addNewProductToolStripMenuItem_Click);
             // 
             // updateProductToolStripMenuItem
             // 
             this.updateProductToolStripMenuItem.Name = "updateProductToolStripMenuItem";
-            this.updateProductToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
+            this.updateProductToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.updateProductToolStripMenuItem.Text = "Search Product";
             this.updateProductToolStripMenuItem.Click += new System.EventHandler(this.updateProductToolStripMenuItem_Click);
             // 
             // displayProductToolStripMenuItem
             // 
             this.displayProductToolStripMenuItem.Name = "displayProductToolStripMenuItem";
-            this.displayProductToolStripMenuItem.Size = new System.Drawing.Size(207, 26);
-            this.displayProductToolStripMenuItem.Text = "Display Product";
+            this.displayProductToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.displayProductToolStripMenuItem.Text = "Display All Product";
             this.displayProductToolStripMenuItem.Click += new System.EventHandler(this.displayProductToolStripMenuItem_Click);
             // 
             // MainContaianer

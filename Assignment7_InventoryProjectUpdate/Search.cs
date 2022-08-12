@@ -35,15 +35,16 @@ namespace Assignment4_InventoryProject
                 else
                 {
                     var item = InventoryModel.findOne(textBox_search.Text);
-                    if (item ==null)
+                    if (item.Count==0)
                     {
+                        dataGridView1.DataSource = null;
                         MessageBox.Show("Searched product has not been found");
                     }
                     else
                     {
                         dataGridView1.DataSource = null;
                         dataGridView1.DataSource = InventoryModel.findOne(textBox_search.Text);
-                        // dataGridView1.DataSource=item;
+                        //dataGridView1.DataSource=item;
                     }
                 }
             }
