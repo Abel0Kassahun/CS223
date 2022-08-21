@@ -1,0 +1,65 @@
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.exe.config
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.csproj.AssemblyReference.cache
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Form1.resources
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Properties.Resources.resources
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.csproj.GenerateResource.cache
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Assignment5_InventoryProject update\bin\Debug\Assignment4_InventoryProject.exe.config
+E:\My files\Programming\C#\Assignment5_InventoryProject update\bin\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Assignment5_InventoryProject update\bin\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.csproj.AssemblyReference.cache
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.Form1.resources
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.Properties.Resources.resources
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.csproj.GenerateResource.cache
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Assignment5_InventoryProject update\obj\Debug\Assignment4_InventoryProject.Login.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\bin\Debug\Assignment4_InventoryProject.exe.config
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\bin\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\bin\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.csproj.AssemblyReference.cache
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.Form1.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.Login.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.Properties.Resources.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.csproj.GenerateResource.cache
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.MainContaianer.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.DisplayALL.resources
+E:\My files\Programming\C#\Assignment 6_InventoryProjectUpdate\obj\Debug\Assignment4_InventoryProject.Search.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.DisplayALL.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.Form1.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.Login.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.MainContaianer.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.Properties.Resources.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.Search.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.csproj.GenerateResource.cache
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\Assignment4_InventoryProject.exe.config
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\Assignment4_InventoryProject.exe
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\Assignment4_InventoryProject.pdb
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\MySql.Data.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\Google.Protobuf.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\ZstdNet.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\BouncyCastle.Crypto.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\Ubiety.Dns.Core.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\System.Memory.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\System.Buffers.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\K4os.Compression.LZ4.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\K4os.Hash.xxHash.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\System.Numerics.Vectors.dll
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\bin\Debug\MySql.Data.xml
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.exe.config
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.csproj.CopyComplete
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.product_card.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.Form2.resources
+E:\My files\Programming\C#\Inventory_Assignment_WorkSpace\obj\Debug\Assignment4_InventoryProject.csproj.AssemblyReference.cache
